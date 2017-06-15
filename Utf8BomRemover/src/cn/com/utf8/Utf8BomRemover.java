@@ -40,4 +40,7 @@ public class Utf8BomRemover extends DirectoryWalker {
             System.out.println("Remove BOM: " + file);  
         }  
     }  
+    private void test(){
+    	System.out.println("≤‚ ‘“ªœ¬GIT");
+    }
 }  
